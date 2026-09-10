@@ -46,6 +46,7 @@ This page focuses on the geographical and cuisine perspective.
 * City and Cuisine filtering
 
 The objective is to understand **where restaurants are concentrated and what cuisine categories are present**.
+<img width="5150" height="3117" alt="TasteTrack-India-Restaurant-Analytics-Dashboard_page-0001" src="https://github.com/user-attachments/assets/bf5cef5e-9aa9-4f48-b2b8-88c1dfd6b10c" />
 
 ---
 
@@ -60,6 +61,8 @@ This page focuses on restaurant ratings and pricing.
 * Restaurant count across different rating and cost ranges
 
 This helps understand the **quality and pricing distribution** within the selected restaurant segment.
+
+<img width="5150" height="3117" alt="TasteTrack-India-Restaurant-Analytics-Dashboard_page-0002" src="https://github.com/user-attachments/assets/7f417608-154b-4450-b0eb-3f1b4d5d6ee2" />
 
 ---
 
@@ -86,6 +89,8 @@ The detailed table provides:
 | Rating  | Restaurant rating        |
 | Votes   | Number of customer votes |
 | Cost    | Approximate cost for two |
+
+<img width="5150" height="3117" alt="TasteTrack-India-Restaurant-Analytics-Dashboard_page-0003" src="https://github.com/user-attachments/assets/ea84d9f7-6855-4a9f-a5e4-1f8b3e61db29" />
 
 ---
 
